@@ -5,33 +5,32 @@ Welcome to my data analytics portfolio! Here, I showcase projects and cases that
 ---
 
 ## About Me
-I am an end-to-end problem-solver with 7+ years of experience in business intelligence, data engineering, and data analytics. I love building systems that prevent problems and drive decisions.
+I am an end-to-end problem-solver with 7+ years in Business Intelligence, Data Engineering, and Data
+Management across fintech, HR tech, and SaaS. Proficient in SQL, Python, and BI tools (Power BI,
+Metabase, Amazon QuickSight) for building systems that prevent problems and drive decisions. Adept at
+collaborating in cross-functional settings, bridging technical and business teams, and translating
+complex analyses into clear narratives for technical and non-technical stakeholders. Advanced English
+proficiency (C1) for international collaboration.
 
 ---
 
 ## Projects
 
-### 1. Fraud Detection - Risk Analyst Case
-
-[![Risk Analyst Case](./images/risk_case_thumb.png)](./Risk_Analyst_Case_Alex_Vechi-2.ipynb)
+### [1. Fraud Detection - Risk Analyst Case](https://github.com/alex-vechi/risk_analyst_case)
 
 **Project Overview:**  
 This case study analyzes payment transactions to identify fraud patterns and design effective anti-fraud solutions using Python and SQL with PySpark.
 
 - **Technologies:** Python, SQL, Google Colab.
+
 - **Highlights:**
   - Explored transactional data and defined risk baselines
   - Identified behavioral and entity-based fraud patterns
   - Proposed prevention rules and strategies
   - Achieved a potential fraud reduction rate up to 75%
   - Full documentation in PDF and interactive notebook
-
-- [View Notebook](./Risk_Analyst_Case_Alex_Vechi-2.ipynb)
-- [View PDF Documentation](./Risk-Analyst_Case_Alex_Vechi.pdf)
-
-**Visual Summary:**  
-Include a relevant chart from your project here!  
-Place your image file in the `/images` folder and reference it in README.
+  
+[![Risk Analyst Case](images/Risk_Analyst_Case_Cover.png)](https://github.com/alex-vechi/risk_analyst_case)
 
 ---
 
