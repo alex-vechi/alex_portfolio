@@ -35,7 +35,7 @@ Conducted analysis in Python and SQL to identify fraud patterns across thousands
 ### [2. E-commerce Sales Analysis](https://alex-vechi.github.io/e_commerce_sales_analysis_alex_vechi/)
 
 **Project Overview:**  
-Developed an end-to-end sales analysis pipeline for a large e-commerce dataset using PySpark and SQL. The project identifies customer patterns, product performance, and revenue opportunities to drive business decisions and targeted marketing strategies.
+Conducted analysis in Python and SQL using PySpark to uncover revenue opportunities and key customer segments across thousands of sales transactions from an open e-commerce dataset. Independently cleaned, transformed, and analyzed the sales data, developing performance metrics to evaluate product category profitability and user value. Designed actionable marketing recommendations and documented findings in a comprehensive report and interactive Colab notebook. Delivered insights tailored for business and analytics teams, with a strong focus on targeting profitable segments and optimizing sales strategy for future campaigns.
 
 - **Technologies:** PySpark, SQL, Google Colab, Pandas, Matplotlib, Seaborn.
 - **Highlights:**
